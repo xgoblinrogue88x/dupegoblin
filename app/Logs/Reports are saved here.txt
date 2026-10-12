@@ -1,0 +1,2 @@
+Dupe Goblin saves its duplicate scan report in this folder.
+Main report: Dupe Goblin - Duplicate Report.txt

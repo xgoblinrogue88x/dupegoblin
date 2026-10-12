@@ -1,0 +1,5 @@
+/build/
+/dist/portable/
+/app/Logs/*
+!/app/Logs/Reports are saved here.txt
+__pycache__/
